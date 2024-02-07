@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Your Name or Organization//Your Calendar Name//EN
+BEGIN:VEVENT
+SUMMARY:New Year's Day
+DTSTART;VALUE=DATE:20240101
+DTEND;VALUE=DATE:20240102
+DESCRIPTION:Celebration of the New Year.
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Independence Day
+DTSTART;VALUE=DATE:20240704
+DTEND;VALUE=DATE:20240705
+DESCRIPTION:National holiday in the United States commemorating the Declaration of Independence.
+END:VEVENT
+END:VCALENDAR
